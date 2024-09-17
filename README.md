@@ -10,6 +10,7 @@ This repository contains a collection of useful scripts for automating tasks and
 ### SQL Scripts
 In the `SQL` folder, you will find scripts that help with:
 - Backup and restore processes.
+- Insert generator 
 - Custom stored procedures and functions.
 
 ### Powershell Scripts
